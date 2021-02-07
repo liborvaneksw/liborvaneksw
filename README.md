@@ -4,5 +4,5 @@ I'm a freelance software & machine learning developer. I focus on computer visio
 In addition to that
 - I contribute to some other repositories as well, maily a 
   [Centernet & TTFnet implementation](https://github.com/Ximilar-com/xcenternet) in Tensorflow 2.2+.
-- I'm blogging on [Towards Data Science](https://towardsdatascience.com/@libor_vanek) from time to time.
+- I'm blogging on [Towards Data Science](https://towardsdatascience.com/@libor-vanek) from time to time.
 - You can meet me on [LinkedIn](https://www.linkedin.com/in/libor-vanek/).
